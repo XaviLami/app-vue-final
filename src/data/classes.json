@@ -1,0 +1,44 @@
+{
+  "classes": [
+    {
+      "price": 10,
+      "name": "VueJS",
+      "description": "Le cours de VueJs permet d'apprendre les bases de ce langage orienté front",
+      "prof": "Jean MARTIN",
+      "health": "available",
+      "photo": "logo.png"
+    },
+    {
+      "price": 25,
+      "name": "Anglais",
+      "description": "Hello guys ! Cours de renforcement d'anglais pour tout niveaux",
+      "prof": "Anakin Skywalker",
+      "health": "available",
+      "photo": "uk.png"
+    },
+    {
+      "price": 33,
+      "name": "Chinois",
+      "description": "Apprenez les bases du chinois avec ce cours ludique",
+      "prof": "Jackie CHANG",
+      "health": "available",
+      "photo": "chine.png"
+    },
+    {
+      "price": 15,
+      "name": "PHP",
+      "description": "Base du PHP et du PHP POO",
+      "prof": "Xavier NIELS",
+      "health": "available",
+      "photo": "php.png"
+    },
+    {
+      "price": 30,
+      "name": "JV",
+      "description": "Cours de Jeu Vidéo",
+      "prof": "Marc OWEL",
+      "health": "available",
+      "photo": "jv.png"
+    }
+  ]
+}
